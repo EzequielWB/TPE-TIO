@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+Contactamos con distintas empresas para ver metodos de pago para utlizar
+
+Buscamos socios que quieran invertir en la veterinaria
+>>>>>>> 41be63cfacf75c6ec4521a7711071887e4ff7327
